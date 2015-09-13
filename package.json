@@ -1,0 +1,23 @@
+{
+  "name": "NodeUnitTesting",
+  "version": "0.0.0",
+  "description": "Unit Testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "UnitTesting"
+  ],
+  "author": "Ravi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "assert": "^1.3.0",
+    "mocha": "^2.3.0",
+    "supertest": "^1.1.0"
+  }
+}
